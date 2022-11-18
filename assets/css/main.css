@@ -20,6 +20,10 @@ html {
 *, *:before, *:after {
   box-sizing: inherit; }
 
+  h1 {
+    color: green;
+  }
+
 body {
   background: #ffffff; }
   body.is-preload *, body.is-preload *:before, body.is-preload *:after {
